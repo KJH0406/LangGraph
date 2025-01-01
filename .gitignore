@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/git,jupyternotebooks,dotenv,python,visualstudiocode,macos,windows,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,jupyternotebooks,dotenv,python,visualstudiocode,macos,windows,venv
 
-intro-to-ls/
+lc-academy-env/
 
 ### dotenv ###
 .env
